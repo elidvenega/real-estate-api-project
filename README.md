@@ -5,6 +5,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
+git clone https://github.com/elidvenega/real-estate-api-project.git
+cd real-estate-api-project
+npm install
 npm run dev
 # or
 yarn dev
