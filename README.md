@@ -4,6 +4,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
+![App Screenshot](https://media.giphy.com/media/AKn6kdoxwLn6qOp6se/giphy.gif)
+
+
 ```bash
 git clone https://github.com/elidvenega/real-estate-api-project.git
 git remote remove origin
