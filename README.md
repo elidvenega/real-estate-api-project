@@ -6,11 +6,17 @@ First, run the development server:
 
 ```bash
 git clone https://github.com/elidvenega/real-estate-api-project.git
+git remote remove origin
+
+```
+
+```bash
 cd real-estate-api-project
 npm install
 npm run dev
 # or
 yarn dev
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
